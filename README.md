@@ -2,3 +2,4 @@
 Hi I'm Theo!
 
  🖤 Third-Year student at Montclair State University studying Geography and Global Security with a track in Geoinformatics and Computer Science.
+ 🖤 Aspiring STEAM educator and Spatial Analyst.
