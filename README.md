@@ -3,4 +3,4 @@
 
 Hi I'm Theo!
 
- 🖤 Third-Year student studying Geography and Global Security with a track in Geoinformatics and Computer Science. I am an sspiring STEAM educator and Spatial Analyst.
+ 🖤 Third-Year student studying Geography and Global Security with a track in Geoinformatics and Computer Science. I am an aspiring STEAM educator and Spatial Analyst.
