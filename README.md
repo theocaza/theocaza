@@ -12,16 +12,16 @@ About Me
 #
 
 <div align="center">
-Hi I'm Theo! I'm a third year student studying <b>Geography and Global Security with a track in Geoinformatics & Computer Science</b>. I am an aspiring STEAM educator & Spatial Analyst.
+Hi I'm Theo! I'm a third-year student studying <b>Geography and Global Security with a track in Geoinformatics and Computer Science</b>. I am an aspiring STEAM educator & Spatial Analyst.
 </div>
 
 <br><br>
 
 
 <div align="center">
-<b>Beginning Proficiency in Python, HTML, & Java</b>
+<b>Learning Python, HTML, and Java</b>
 </div>
 
 <div align="center">
-<b>Self-taught UI/UX Designer</b>
+<b>Currently building projects in mapping, spatial analysis, and data visualization</b>
 </div>
