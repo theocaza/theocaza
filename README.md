@@ -12,7 +12,7 @@ About Me
 #
 
 <div align="center">
-Hi I'm Theo! I'm a third-year student studying <b>Geography and Global Security with a track in Geo-information systems.</b>. I am an aspiring STEAM educator, Web App developer, and Spatial Analyst.
+Hi I'm Theo! I'm a third-year student studying <b>Geography and Global Security with a track in Geo-information systems</b>. I am an aspiring STEAM educator, Web App developer, and Spatial Analyst.
 </div>
 
 <br><br>
